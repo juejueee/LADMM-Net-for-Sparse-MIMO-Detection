@@ -1,5 +1,5 @@
 # LADMM-Net-for-Sparse-MIMO-Detection
-This repository contains the code for paper: 
+This repository contains the code for the paper:  
 **A Model-Driven Deep Learning Framework for Sparse MIMO Signal Detection**
 # Software Versions
 * python 3.7 
